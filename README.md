@@ -22,7 +22,7 @@
 - 🎮 Di waktu luang, saya biasanya bermain Valorant.
 
 ### 🛠️ Tech Stack & Tools
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felixcvn&layout=compact&theme=tokyonight&hide=html)](https://github.com/felixcvn)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felixcvn&layout=compact)](https://github.com/felixcvn)
 
 <p align="left">
   <!-- Pengembangan Web & Mobile -->
