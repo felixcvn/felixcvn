@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Ega Felix Cavan
 
 Welcome to my GitHub profile!
+
 I am a Web & Mobile Developer and UI/UX Enthusiast passionate about building software that solves real-world problems and makes a positive impact on people's daily lives.
 
 ---
@@ -9,7 +10,7 @@ I am a Web & Mobile Developer and UI/UX Enthusiast passionate about building sof
 
 I am currently affiliated with the University of Jember (UNEJ). My technical experience spans across UI/UX design and frontend development, with a particular focus on building intuitive administrative dashboards and comprehensive management systems.
 
-For me, software development is more than just writing code; it is about creating utility. I am dedicated to bridging creative visual aesthetics with technical system requirements to deliver user-centric and highly optimized solutions that bring practical, everyday benefits to the community around me.
+For me, software development is more than just writing code it is about creating utility. I am dedicated to bridging creative visual aesthetics with technical system requirements to deliver user-centric and highly optimized solutions that bring practical, everyday benefits to the community around me.
 
 ## 👀 Interests
 
