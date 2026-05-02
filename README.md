@@ -22,8 +22,7 @@
 - 🎮 Di waktu luang, saya biasanya bermain Valorant.
 
 ### 🛠️ Tech Stack & Tools
-
-*Bagian ini bisa kamu sesuaikan dengan bahasa atau *tools* yang paling sering kamu gunakan:*
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_KAMU&layout=compact&theme=tokyonight&hide=html)](https://github.com/USERNAME_KAMU)
 
 <p align="left">
   <!-- Pengembangan Web & Mobile -->
