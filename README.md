@@ -15,7 +15,6 @@
 
 ### About Me
 
-- 💼 Co-founder and operator at **RFSK STUDIO**, providing IT, digitalization, and creative editing services.
 - 🎓 Affiliated with the **University of Jember (UNEJ)**.
 - 💻 Experienced in UI/UX design, with a strong focus on building administrative dashboards and comprehensive management systems.
 - 🎨 Passionate about graphic design, color theory for visual branding, and digital image manipulation.
