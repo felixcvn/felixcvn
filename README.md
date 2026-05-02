@@ -15,11 +15,9 @@
 
 ### 👨‍💻 Tentang Saya
 
-- 🚀 **Co-Founder & Operator** di **RFSK STUDIO**, berfokus pada layanan IT, digitalisasi, dan pengembangan website.
 - 🎓 Berafiliasi dengan **Universitas Jember (UNEJ)**.
 - 💻 Berpengalaman dalam merancang UI/UX, khususnya untuk sistem manajemen dan *administrative dashboards*.
 - 🎨 Memiliki minat yang kuat pada desain grafis, teori warna untuk *branding*, dan manipulasi gambar digital.
-- 🎮 Di waktu luang, saya biasanya bermain Valorant.
 
 ### 🛠️ Tech Stack & Tools
 [![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=felixcvn&theme=radical)](https://github.com/felixcvn)
