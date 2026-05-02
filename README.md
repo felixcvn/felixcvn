@@ -28,8 +28,8 @@ For me, software development is more than just writing code it is about creating
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=felixcvn&show_icons=true&theme=radical" alt="GitHub Stats" height="150" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=felixcvn&theme=radical" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=felixcvn&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felixcvn&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ## 📫 How to reach me
