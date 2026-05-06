@@ -14,7 +14,7 @@ For me, software development is more than just writing code it is about creating
 
 ## 👀 Interests
 
-*   Frontend Web & Mobile Development (HTML5, CSS3, JavaScript)
+*   Frontend Web & Mobile Development (HTML5, CSS3, JavaScript (React))
 *   UI/UX Design & Prototyping (Figma)
 *   Graphic Design & Digital Image Manipulation (Adobe Photoshop)
 *   Software for Social Impact & Utility
